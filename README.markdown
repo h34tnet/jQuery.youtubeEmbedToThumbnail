@@ -6,12 +6,17 @@ Why should you do that? Because if you have a page with *a lot* of embedded vide
 
 ## Usage
 
-    ...
+    $('OBJECT').youtubeEmbedToThumbnail();
 
 ## Options
 
-    ...
+    {
+      big:        false,
+      cssClass:   'yttn'
+    }
 
+
+big shows bigger thumbnails. the css class will be attached to the thumbnail.
 
 ## Source, demo and licence
 
