@@ -16,5 +16,4 @@ Why should you do that? Because if you have a page with *a lot* of embedded vide
 ## Source, demo and licence
 
 * The source can be [found here](http://github.com/schnalle/jQuery.fn.faytFilter)
-* The demo can be [found here](http://faytfilter.tapirpirates.net/)
 * Licence: [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/)
